@@ -1,0 +1,17 @@
+{
+  "name": "{{cookiecutter.project_name}}",
+  "version": "0.0.0",
+  "homepage": "https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}",
+  "authors": [
+    "{{cookiecutter.github_username}} <{{cookiecutter.email}}>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
